@@ -1,0 +1,23 @@
+{
+  "name": "calisthenics-counter",
+  "version": "1.0.0",
+  "description": "a counter for reps and sets",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MV88/calisthenics-counter.git"
+  },
+  "keywords": [
+    "counter",
+    "calisthenics"
+  ],
+  "author": "Matteo Velludini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MV88/calisthenics-counter/issues"
+  },
+  "homepage": "https://github.com/MV88/calisthenics-counter#readme"
+}
